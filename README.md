@@ -1,6 +1,6 @@
 # ✍️ Примеры Tortoise ORM
 Репозиторий с некоторыми примерами из видео про разбор документации Tortoise ORM  
-https://youtu.be/YgTyRWpZLYM
+https://rutube.ru/video/ba7f2ce000f5075501dd475a65eb8e09 или https://youtu.be/YgTyRWpZLYM
 
 > Далеко не все примеры были добавлены. Если у вас есть предложения по поводу новых примеров, откройте новый [Issue](https://github.com/Teen-developer/tortoise-orm-examples/issues)
 > с флагом **"Запрос нового примера"**. Напишите (1) тему примера и (2) какие аспекты он должен покрыть, а я приму решение и при необходимости реализую его
